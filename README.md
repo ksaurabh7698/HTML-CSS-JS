@@ -1,2 +1,4 @@
 # HTML-CSS-JS
-html, css and javascript projects
+This repository contains beginner friendly HTML-CSS-Javascript projects.
+
+First project which i am going to work on is snake game.
